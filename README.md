@@ -1,4 +1,7 @@
-# Correlation Analysis of Movies - Using Pandas, NumPy & Seaborn
+# Correlation Analysis of Movies
+
+![correlation](https://github.com/user-attachments/assets/828518dc-78c6-4c75-8ec2-1753a72fc560)
+
 
 Analyzed movie data to find correlations between different features such as budget, revenue, and ratings using Python libraries like Pandas, NumPy, and Seaborn. 
 
